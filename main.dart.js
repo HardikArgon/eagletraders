@@ -47037,7 +47037,7 @@ $S:38}
 A.aq5.prototype={
 $0(){var s,r=this.a
 if(r.d.gJ().t7())if(r.e.a.a===J.J9($.aLe().gl(0))&&r.f.a.a===J.J9($.aLa().gl(0))){$.axc().M2(0,"isLogin",!0)
-window.location.href=B.Lo.gCj(window.location)+"/dashboard"}else A.jc("Invalid username or password")
+window.location.href=B.Lo.gCj(window.location)+"/eagletraders"}else A.jc("Invalid username or password")
 else{s=r.e.a.a.length===0
 if(s&&r.f.a.a.length===0)A.jc("Please enter email and password")
 else if(s)A.jc("Please enter email")
